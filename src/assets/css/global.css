@@ -1,0 +1,16 @@
+:root {
+  /* background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(1,42,57,1) 33%, rgba(0,24,33,1) 100%); */
+  font-family: 'Montserrat', sans-serif;
+  margin: 0 !important;
+  padding: 0 !important;
+  font-weight: 400;
+  background-color: var(--primary-background);
+
+  
+  --primary-background: #001D26;
+  --secondary-background: #002F3C;
+  --text-white: #96AEBD;
+  --text-orange: #C25C00;
+  --margin-left-default :0px 0px 0px 10vw;
+  --margin-right-default :0px 10vw 0px 0px;
+}
